@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "Mondrodon",
+        "link": "https://www.youtube.com/@mondrodon"
+    },
+    {
+        "role": "admin",
+        "name": "Nobody",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "helper",
+        "name": "Nobody",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Nobody",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "Nobody",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]
